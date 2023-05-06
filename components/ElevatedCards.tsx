@@ -45,7 +45,8 @@ const styles = StyleSheet.create({
     headingText: {
         fontSize: 24,
         fontWeight: 'bold',
-        paddingHorizontal: 16
+        paddingHorizontal: 16,
+        marginTop: 18
     },
     card:{
         flex: 1,
